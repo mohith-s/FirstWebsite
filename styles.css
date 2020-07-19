@@ -1,0 +1,86 @@
+div{
+
+  text-align: center;
+}
+.i3{
+  width:25%;
+  margin-right: 10px;
+  float:left;
+}
+.i4{
+  width:40%;
+  margin-right: 10px;
+  float:right;
+}
+body{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  font-family: 'Raleway', sans-serif;
+  background-color: #e4f9ff;
+}
+h1
+{
+  color:#66bfbf;
+margin:0;
+font-family: 'Tangerine', cursive;
+font-size: 70px;
+margin-top: 50px;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+  color:#66bfbf;
+  font-weight: normal;
+}
+h3{
+  color:#11999e;
+}
+.me{
+  margin-top: 10px;
+}
+.up{
+
+  position:absolute;
+  right:400px;
+  top:50px;
+
+
+}
+p{
+
+}
+.i1{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+.i2{
+  width:25%;
+  float:right;
+  margin-left: 30px;
+}
+.top-container{
+
+  padding-top: 100px;
+  position:relative;
+
+}
+
+.down{
+  position:absolute;
+  left: 400px;
+  bottom: 300px;
+}
+.middle-container{
+
+}
+.bottom-container{
+
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
